@@ -1,7 +1,9 @@
 # Friction_extraction
 Depend on the Fokker Plank equation, we can extract the position dependent friction from the first first passage time
 Only for internal using. (AG Netz)
-![alt text](https://github.com/Sanhei/Friction_extraction/blob/main/friction_kernel.png?raw=true)
+![alt text](https://github.com/Sanhei/Friction_extraction/blob/main/forward.svg?raw=true)
+
+![alt text](https://github.com/Sanhei/Friction_extraction/blob/main/backward.svg?raw=true)
 
 1. Changing the input file in main.cpp. Find the line
 ```
